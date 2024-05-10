@@ -8,4 +8,3 @@ project(Creazione_di_tutti_gli_esguibili
 add_executable(gdb1 gdb1.c)
 add_executable(gdb2 gdb2.c)
 add_executable(gdb3 gdb3.c)
-
